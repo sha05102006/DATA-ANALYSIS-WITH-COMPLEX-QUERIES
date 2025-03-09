@@ -43,7 +43,7 @@ Data Visualization: Output data was captured as images and stored in the reposit
 
 ##OUTPUT OF SUBQUERIES:
 
-
+![Image](https://github.com/user-attachments/assets/60730c7b-959f-4892-97ad-622ca73ce231)
 
 ##OUTPUT OF CTES(COMMON TABLE EXPRESSIONS)
 
