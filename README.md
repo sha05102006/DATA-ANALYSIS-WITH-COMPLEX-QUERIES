@@ -36,3 +36,14 @@ TOOLS USED:
 MySQL Workbench: All the queries were executed using MySQL Workbench, which provided a user-friendly interface for writing, executing, and visualizing the SQL queries.
 SQL: The queries are written in standard SQL, making use of MySQL-specific functions like RANK(), EXTRACT(), and SUM().
 Data Visualization: Output data was captured as images and stored in the repository to showcase the results of each query and provide visual insights into the trends and patterns in the data.
+
+##OUTPUT OF WINDOWS FUNCTION:
+
+![Image](https://github.com/user-attachments/assets/e1fd1331-df80-4335-9e3a-2e27f1f37dda)
+
+##OUTPUT OF SUBQUERIES:
+
+
+
+##OUTPUT OF CTES(COMMON TABLE EXPRESSIONS)
+
