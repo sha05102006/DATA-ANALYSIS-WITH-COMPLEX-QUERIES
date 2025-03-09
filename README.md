@@ -47,3 +47,4 @@ Data Visualization: Output data was captured as images and stored in the reposit
 
 ##OUTPUT OF CTES(COMMON TABLE EXPRESSIONS)
 
+![Image](https://github.com/user-attachments/assets/a32a0543-1377-4a28-b992-87f17a5cea09)
